@@ -12,9 +12,13 @@
 
 # 🌟 Figma Design
 <br/><br/>
-
 ### **[hoobank figma design](https://www.figma.com/design/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=310-486&t=XIsJZeLG46P9iRaB-0)**
-
 <br/><br/>
+
+# 🚨 Disclaimer
+<br><br>
+<div align="center">
+  <p>This project was created for educational purposes to demonstrate web development and design skills. The layout and content are based on a design created in Figma and do not represent the official website of any real bank or financial institution. This project is not affiliated with any actual company. All content and design are for educational use only.</p>
+</div>
 
 
