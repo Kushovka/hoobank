@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Kushovka.github.io/hoobank",
+  "homepage": "https://github.com/Kushovka/hoobank",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
