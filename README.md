@@ -1,7 +1,12 @@
 # 👉 **[Hoobank](https://kushovka.github.io/hoobank/)** Website !
 ![ab48c0cc-c2db-4317-9d58-5cd7d79367ce](https://github.com/user-attachments/assets/85676714-9059-4a9e-bb20-e590206c5c57)
 <br/><br/>
-# ⚙️ Tech Stack
+<div align="center">
+<p>
+  Hoobank is a modern landing page created to showcase a fictional banking service. Developed using React and styled with Tailwind CSS, this project demonstrates responsive design, smooth animations, and interactive UI elements. It focuses on delivering an elegant and user-friendly experience while showcasing modern web development skills.
+  </p>
+</div>
+<h1>⚙️ Tech Stack</h1>
 <br/><br/>
 <div align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
