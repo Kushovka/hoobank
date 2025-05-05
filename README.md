@@ -1,4 +1,4 @@
-# 👉 **[Hoobank](https://kushovka.github.io/hoobank/)** Website !
+# 👉 **[Hoobank](https://kushovka.github.io/hoobank/)** Website 
 ![ab48c0cc-c2db-4317-9d58-5cd7d79367ce](https://github.com/user-attachments/assets/85676714-9059-4a9e-bb20-e590206c5c57)
 <br/><br/>
 <div align="center">
